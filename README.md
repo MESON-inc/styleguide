@@ -2,7 +2,7 @@
 
 This is MESON's Coding Style Guide.
 
-- [Unity C#](./unity-c-charp/README.md)
+- [Unity C# Style Guide](./unity-c-charp/README.md)
 
 ## License
 
