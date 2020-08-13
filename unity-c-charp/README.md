@@ -116,12 +116,12 @@
   // NGパターン
   private void Initialize()
   {
-  	_anyButton.onClick.AddListener(AddItem);
+      _anyButton.onClick.AddListener(AddItem);
   }
   
   private void AddItem()
   {
-  	// do adding process.
+      // do adding process.
   }
   
   // ----------------------------------------------
@@ -129,12 +129,12 @@
   // OKパターン
   private void Initialize()
   {
-  	_anyButton.onClick.AddListener(OnClicked);
+      _anyButton.onClick.AddListener(OnClicked);
   }
   
   private void OnClicked()
   {
-  	AddItem();
+      AddItem();
   }
   ```
 
