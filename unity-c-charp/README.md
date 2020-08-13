@@ -34,21 +34,21 @@
   // ガード節が使えるケース
   private void AnyMethod()
   {
-  	if (_anyField == null)
-  	{
-  		return;
-  	}
+      if (_anyField == null)
+      {
+          return;
+      }
   
-  	// any process.
+      // any process.
   }
   
   // 内容が1〜2行の場合
   private void AnyMethod()
   {
-  	if (_anyField != null)
-  	{
-  		AnotherMethod();
-  	}
+      if (_anyField != null)
+      {
+          AnotherMethod();
+      }
   }
   ```
   
